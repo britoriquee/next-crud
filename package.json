@@ -2,7 +2,7 @@
 	"name": "next-crud",
 	"version": "1.0.0",
 	"main": "index.js",
-	"repository": "https://github.com/britoriquee/next-crud",
+	"repository": "https://github.com/britoriquee/next-crud.git",
 	"author": "Henrique Brito",
 	"license": "MIT",
 	"scripts": {
